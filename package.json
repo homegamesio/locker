@@ -1,0 +1,23 @@
+{
+  "name": "locker",
+  "version": "0.1.0",
+  "description": "store & retrieve stuff",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.939.0",
+    "cryptojs": "^2.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homegamesio/locker.git"
+  },
+  "author": "Joseph Garcia",
+  "bugs": {
+    "url": "https://github.com/homegamesio/locker/issues"
+  },
+  "homepage": "https://github.com/homegamesio/locker#readme"
+}
